@@ -1,0 +1,14 @@
+{
+  "UserData": {
+    "target": {
+      "object": "UserData.User",
+      "schema": "OPENSAP_HANA_USER_00_1"
+    }
+  },
+  "USER_DETAILS": {
+    "target": {
+      "object": "user.models::USER_DETAILS",
+      "schema": "OPENSAP_HANA_USER_00_1"
+    }
+  }
+}
